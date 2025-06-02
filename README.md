@@ -28,10 +28,11 @@ The main script is `main.py`, which accepts the following arguments:
 
 ```bash
 python main.py --dataset dataset --m model --labelrate labelrate --s stage --t threshold --b beta --drop_method drop_method --droprate droprate
+```
 
 ---
 
-## How to Run
+## Additional Dataset Splits
 
 To prepare the CaCS and ACom datasets for DR-GST, we wrote two additional preprocessing scripts:
 
@@ -42,3 +43,14 @@ These scripts generate the training, validation, and test masks required by the 
 The resulting split files have already been saved in the `data/` folder.
 
 > **Note:** There is no need to re-run the mask generation scripts unless you want to regenerate the splits from scratch.
+
+---
+
+## Group Members
+
+This project was completed by the following students as part of the STAT 461 group project:
+
+- Teng Li  
+- Bingye Liu  
+- Tong Su  
+- Haorong Zhang
