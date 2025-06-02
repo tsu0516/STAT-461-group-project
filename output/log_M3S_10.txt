@@ -1,0 +1,7 @@
+Using backend: pytorch
+usage: main.py [-h] [--model MODEL] [--dataset DATASET] --labelrate LABELRATE
+               [--weight_decay WEIGHT_DECAY] [--epochs EPOCHS] [--stage STAGE]
+               [--threshold THRESHOLD] [--beta BETA] --drop_method DROP_METHOD
+               [--lr LR] [--droprate DROPRATE] [--hidden HIDDEN]
+               [--dropout DROPOUT] [--patience PATIENCE]
+main.py: error: the following arguments are required: --drop_method

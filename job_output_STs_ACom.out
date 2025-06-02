@@ -1,0 +1,48 @@
+Running labelrate=3
+cpu
+Test set results loss= 1.5794 accuracy= 0.6490
+Test set results loss= 1.2850 accuracy= 0.6790
+Test set results loss= 1.8065 accuracy= 0.6710
+Test set results loss= 1.6761 accuracy= 0.6740
+Test set results loss= 1.6618 accuracy= 0.6720
+Test set results loss= 1.7954 accuracy= 0.6730
+Test set results loss= 1.8081 accuracy= 0.6650
+Test set results loss= 2.3862 accuracy= 0.6820
+Test set results loss= 2.8857 accuracy= 0.6720
+Test set results loss= 2.6870 accuracy= 0.6710
+Running labelrate=5
+cpu
+Test set results loss= 0.8056 accuracy= 0.7940
+Test set results loss= 0.8400 accuracy= 0.7920
+Test set results loss= 1.0423 accuracy= 0.7700
+Test set results loss= 1.2643 accuracy= 0.7590
+Test set results loss= 1.2583 accuracy= 0.7390
+Test set results loss= 1.3437 accuracy= 0.7340
+Test set results loss= 1.5750 accuracy= 0.7250
+Test set results loss= 1.4589 accuracy= 0.7190
+Test set results loss= 1.3874 accuracy= 0.7160
+Test set results loss= 1.4414 accuracy= 0.7070
+Running labelrate=10
+cpu
+Test set results loss= 0.8236 accuracy= 0.7460
+Test set results loss= 0.8656 accuracy= 0.7740
+Test set results loss= 0.9151 accuracy= 0.7440
+Test set results loss= 1.1790 accuracy= 0.7050
+Test set results loss= 1.3172 accuracy= 0.6930
+Test set results loss= 1.5291 accuracy= 0.6600
+Test set results loss= 1.6612 accuracy= 0.6540
+Test set results loss= 2.2543 accuracy= 0.6420
+Test set results loss= 3.0070 accuracy= 0.6480
+Test set results loss= 3.4125 accuracy= 0.6100
+Running labelrate=20
+cpu
+Test set results loss= 0.6685 accuracy= 0.8190
+Test set results loss= 0.7820 accuracy= 0.8290
+Test set results loss= 0.8757 accuracy= 0.8020
+Test set results loss= 0.8807 accuracy= 0.7980
+Test set results loss= 0.8617 accuracy= 0.7840
+Test set results loss= 1.1370 accuracy= 0.7590
+Test set results loss= 1.2111 accuracy= 0.7130
+Test set results loss= 1.3714 accuracy= 0.7110
+Test set results loss= 1.7398 accuracy= 0.7310
+Test set results loss= 1.8566 accuracy= 0.6890
