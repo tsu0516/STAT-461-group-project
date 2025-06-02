@@ -46,6 +46,16 @@ The resulting split files have already been saved in the `data/` folder.
 
 ---
 
+## Visualization
+
+All figures and plots used in our analysis and presentation were generated using the notebook:
+
+**`STAT461_Presentation_Plots.ipynb`**
+
+This notebook includes visualizations of performance metrics across datasets and ablation study results, supporting both reproduction and extension components of our project.
+
+---
+
 ## Group Members
 
 This project was completed by the following students as part of the STAT 461 group project:
